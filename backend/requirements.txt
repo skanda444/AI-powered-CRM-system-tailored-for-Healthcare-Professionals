@@ -1,0 +1,4 @@
+fastapi==0.103.1
+uvicorn==0.23.2 #Unicorn is a Gateway Or server which is needed to run fast API
+langchain==0.1.17 #langgraph provides Framework for building AI models
+pydantic==2.4.2 # is a data validation library
